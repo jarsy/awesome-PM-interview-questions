@@ -1,3 +1,4 @@
+### Organisational style and culture questions.
 1. Tell me about company's shared visions, values, beliefs and expectations?
 2. Tell me about company's regulations, policies, methods, and procedures?
 3. Tell me about company's motivation and rewards systems?
