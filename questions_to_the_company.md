@@ -5,4 +5,5 @@
 4. Tell me about company's risk tolerance?
 5. Tell me about company's view of leadership, hierarchy, and authority relationships?
 6. Tell me about company's code of conduct, work ethic, work hours and operating environments?
+
 ### Organizational Structures
