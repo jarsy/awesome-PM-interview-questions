@@ -2,6 +2,8 @@
 
 > A curated awesome list of lists of Project Management interview questions.
 
+Please read the [contribution guidelines](contributing.md) or the [creating a list guide](create-list.md) if you want to contribute.
+
 [What makes for an awesome list?](awesome.md)
 
 [Questions to the applicant](questions_to_the_applicant.md)
