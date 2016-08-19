@@ -6,9 +6,13 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 [What makes for an awesome list?](awesome.md)
 
+
+### Table of Contents
+
 [Questions to the applicant](questions_to_the_applicant.md)
 
 [Questions to the company](questions_to_the_company.md)
+
 
 ### License
 
