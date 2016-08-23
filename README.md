@@ -9,15 +9,15 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ### Table of Contents
 
+- [Questions to the company](#questions-to-the-company)
+  - [Organisational style and culture questions.](#organisational-style-and-culture-questions)
+
+
 - [Questions to the applicant](#questions-to-the-applicant)
   - 
 
 
-- [Questions to the company](#questions-to-the-company)
-  - [Organisational style and culture questions.](Organisational style and culture questions)
-
-
-## Questions to the applicant
+## Questions to the company
 
 ### Organisational style and culture questions
 
@@ -28,10 +28,10 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * Tell me about company's view of leadership, hierarchy, and authority relationships?
 * Tell me about company's code of conduct, work ethic, work hours and operating environments?
 
-### Organizational Structures
+### Organizational structure questions
 
 
-## Questions to the company
+## Questions to the applicant
 
 ### License
 
