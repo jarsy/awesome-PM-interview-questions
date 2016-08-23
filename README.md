@@ -9,15 +9,15 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ### Table of Contents
 
-- [Questions to the applicant](questions_to_the_applicant.md)
+- [Questions to the applicant](Questions to the applicant)
   - 
 
 
-- [Questions to the company](questions_to_the_company.md)
+- [Questions to the company](Questions to the company)
   - [Organisational style and culture questions.](Organisational style and culture questions)
 
 
-
+## Questions to the applicant
 
 ### Organisational style and culture questions
 
@@ -30,6 +30,8 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ### Organizational Structures
 
+
+## Questions to the company
 
 ### License
 
