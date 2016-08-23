@@ -10,7 +10,8 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 ### Table of Contents
 
 - [Questions to the company](#questions-to-the-company)
-  - [Organisational style and culture questions.](#organisational-style-and-culture-questions)
+  - [Organisational style and culture questions](#organisational-style-and-culture-questions)
+  - [Organizational structure questions](#organizational-structure-questions)
 
 
 - [Questions to the applicant](#questions-to-the-applicant)
