@@ -9,9 +9,26 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ### Table of Contents
 
-[Questions to the applicant](questions_to_the_applicant.md)
+- [Questions to the applicant](questions_to_the_applicant.md)
+  - 
 
-[Questions to the company](questions_to_the_company.md)
+
+- [Questions to the company](questions_to_the_company.md)
+  - [Organisational style and culture questions.](Organisational style and culture questions)
+
+
+
+
+### Organisational style and culture questions
+
+* Tell me about company's shared visions, values, beliefs and expectations?
+* Tell me about company's regulations, policies, methods, and procedures?
+* Tell me about company's motivation and rewards systems?
+* Tell me about company's risk tolerance?
+* Tell me about company's view of leadership, hierarchy, and authority relationships?
+* Tell me about company's code of conduct, work ethic, work hours and operating environments?
+
+### Organizational Structures
 
 
 ### License
