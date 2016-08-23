@@ -9,11 +9,11 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ### Table of Contents
 
-- [Questions to the applicant](Questions to the applicant)
+- [Questions to the applicant](#questions-to-the-applicant)
   - 
 
 
-- [Questions to the company](Questions to the company)
+- [Questions to the company](#questions-to-the-company)
   - [Organisational style and culture questions.](Organisational style and culture questions)
 
 
