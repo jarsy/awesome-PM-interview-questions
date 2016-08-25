@@ -19,7 +19,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
     - [Generic questions](#generic-questions)
 
 
-### Questions to the company
+# Questions to the company
 
 ## Generic questions
 - [15 interview questions to ask hiring manages](http://www.right.com/wps/wcm/connect/right-us-en/home/thoughtwire/categories/career-work/15-interview-questions-to-ask-hiring-managers)
@@ -41,7 +41,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 
 
-### Questions to the applicant
+# Questions to the applicant
 
 ## Generic questions
 - [Project Manager job interview questions](http://www.arraspeople.co.uk/project-management-careers-advice/project-manager-job-interview-questions/)
