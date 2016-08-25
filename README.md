@@ -19,6 +19,9 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
     - [Generic questions](#generic-questions)
 
 
+
+
+
 # Questions to the company
 
 ## Generic questions
@@ -37,6 +40,10 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
     * Tell me about company's code of conduct, work ethic, work hours and operating environments?
 
 ## Organizational structure questions
+
+
+
+
 
 
 
